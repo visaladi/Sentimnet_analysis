@@ -1,0 +1,26 @@
+{
+    "detailed_flows": {},
+    "aggregated_flows": {},
+    "average_sentiment": {
+        "U": 0.27984000000000003,
+        "July": 0.23707241379310345,
+        "Twitter": 0.274073,
+        "news": 0.273178947368421,
+        "US": 0.3360568181818182,
+        "crypto": 0.27911354166666663,
+        "xrp": 0.7139333333333333,
+        "https": 0.26349285714285714,
+        "cryptonews": 0.3072222222222222,
+        "bitcoin": 0.41020588235294114,
+        "Million": -0.35015,
+        "whale": 0.0,
+        "Billion": 0.86375,
+        "ethereum": 0.18864999999999998,
+        "finance": 0.0,
+        "Yahoo": 0.0,
+        "binance": 0.8285,
+        "NFT": 0.0,
+        "transfer": 0.6808
+    },
+    "potential_positive_coin_names": {}
+}
